@@ -1,7 +1,7 @@
 package com.CabCustomerService;
 
 
-//here i used encapsulation using getter and setter and has-a relation
+//here i used encapsulation using getter and setter and has-a relation use in this program
 	// Take these fields in private : custId int, customerName String, pickupLocation String,dropLocation String, distance int,phone String
 	public class CabCustomer {
 		private int custId;
